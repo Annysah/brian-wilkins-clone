@@ -1,0 +1,1 @@
+web: gunicorn brianwilkinsportfolio.wsgi --log-file -
